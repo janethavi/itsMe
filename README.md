@@ -1,4 +1,4 @@
-## [![janeth's Header](https://github.com/janethavi/janethavi/blob/main/Images/janeth.png)](https://janethavishka.wordpress.com/)
+## [![janeth's Header](https://github.com/janethavi/janethavi/blob/main/Images/janeth-cover.png)](https://janethavishka.wordpress.com/)
 
 <p align='center'>
 <a href="https://www.instagram.com/_jan.eth_"><img height="30" src="https://github.com/janethavi/janethavi/blob/main/Icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
