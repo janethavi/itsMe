@@ -11,6 +11,6 @@
 
 <h2 align="center">Hello Folks! I'm Janeth .... 👋🤓</h2>
 
-I am a Software Engineering Undergraduate at Informatics Institute of Technology in collaboration with the University of Westminster UK. I worked as a software engineering intern at [WSO2](https://wso2.com). I have a passion for learning new technical things and sharing my knowledge with others. I really love cloud development. But these days I'm learning Data Science related stuff.
+Currently, I am working as a Software Engineer at [WSO2](https://wso2.com). I am also a contributor for the [SEF Community](https://sefglobal.org). Feel free to contact me from any medium mentioned above if you have anything to ask.
 
 ![Janeth's Github Stats](https://github-readme-stats.vercel.app/api?username=janethavi&show_icons=true&theme=radical)
